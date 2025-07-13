@@ -10,11 +10,11 @@ Un site web simple et responsive de deux pages, développé en **HTML** et **CSS
 - CSS3
 - Design responsive (media queries)
 
-## 📄 Pages  
+##  Pages  
 - Page d'accueil  
 - Page À propos
 
-## 🚀 Démo en ligne  
+##  Démo en ligne  
 🔗 [Voir le site](https://nbhd12.github.io/projet00/index.html)
 
 ## Project 00 – Responsive Website (EN)
@@ -24,9 +24,9 @@ A simple and responsive two-page website built with **HTML** and **CSS**. This p
 - CSS3  
 - Responsive design (media queries)
 
-## 📄 Pages  
+## Pages  
 - Home Page  
 - About Page
 
-## 🚀 Live Preview  
+## Live Preview  
 🔗 [View Website](https://nbhd12.github.io/projet00/index.html)
